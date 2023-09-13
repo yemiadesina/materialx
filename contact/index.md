@@ -25,5 +25,5 @@ We are part of the Civil and Environmental Engineering Department at the Univers
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/okEr4PAp3cBCJ57T6"
 %}
