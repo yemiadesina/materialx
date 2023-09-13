@@ -1,6 +1,6 @@
-- title: Cool Dataset
+- title: Carbon Capture and Utilization
   subtitle: a subtitle
-  group: featured
+  group: ongoing
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -8,9 +8,9 @@
   tags:
     - resource
 
-- title: Cool Package
+- title: Utilization of mining wastes in cementitious materials
   subtitle: a subtitle
-  group: featured
+  group: ongoing
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -18,8 +18,9 @@
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: Life cycle assessment of low carbon materials
   subtitle: a subtitle
+  group: ongoing
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -28,8 +29,9 @@
     - resource
     - publication
 
-- title: Cool Web App
+- title: Utilization of recycled aggregates in low carbon concrete
   subtitle: a subtitle
+  group: ongoing
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -37,8 +39,69 @@
   tags:
     - software
 
-- title: Cool Web Server
+- title: Development of hempcrete
   subtitle: a subtitle
+  group: ongoing
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+    
+- title: Performance and sustainability improvement of fibre-reinforced cementitious materials
+  subtitle: a subtitle
+  group: completed
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Development of thermal efficient mortars
+  subtitle: a subtitle
+  group: completed
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Utilization of uncalcined clay in cementitious materials
+  subtitle: a subtitle
+  group: completed
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+    
+- title: Investigation of the role of moisture in alkali-silica reaction
+  subtitle: a subtitle
+  group: completed
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+    
+- title: Utilization of locally sourced clay in various cementitious materials
+  subtitle: a subtitle
+  group: collaborative
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Development of geopolymers using locally sourced precursor and activators
+  subtitle: a subtitle
+  group: collaborative
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
