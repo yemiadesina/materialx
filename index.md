@@ -1,7 +1,11 @@
 ---
 ---
 
-# yemiadesina's Website
+## Welcome to Lab
+Welcome to our Research &amp; Development Lab where we innovate and foster developments in low-
+carbon, sustainable, and smart construction materials. Our multidisciplinary team is dedicated to
+reducing the environmental footprint of construction materials and revolutionizing the construction
+industry.
 
 An engaging 1-3 sentence description of your lab.
 
