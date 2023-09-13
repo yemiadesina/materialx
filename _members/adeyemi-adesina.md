@@ -1,7 +1,7 @@
 ---
 name: Adeyemi Adesina
 image: images/photo.jpg
-role: pi
+role: director
 aliases:
   - A. Adesina
   - A Adesina
