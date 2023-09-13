@@ -17,14 +17,14 @@ In our pursuit to revolutionize the construction industry with sustainable and s
 
 ### Ongoing
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: ongoing" %}
 
 {% include section.html %}
 
 ### Completed
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: completed" style="small" %}
 
 ### Collaborative
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: collaborative" style="small" %}
