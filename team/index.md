@@ -9,14 +9,21 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: director" %}
+
+<!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At our forefront, we envision a collaborative space nurtured by the dynamic confluence of varied perspectives and expertise. We are on the lookout for passionate scientists and engineers to join our vibrant and diverse team, where innovation meets dedication to craft the future of sustainable construction.
+
+{%
+  include button.html
+  type="links"
+  tooltip="Join our team"
+  text="Join our team"
+  link="/join"
+%}
 
 {% include section.html %}
 
