@@ -2,9 +2,9 @@
 
 # team member roles
 
-pi:
+director:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Director
 
 postdoc:
   icon: fa-solid fa-glasses
