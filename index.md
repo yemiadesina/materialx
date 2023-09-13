@@ -7,7 +7,13 @@ carbon, sustainable, and smart construction materials. Our multidisciplinary tea
 reducing the environmental footprint of construction materials and revolutionizing the construction
 industry.
 
-An engaging 1-3 sentence description of your lab.
+## Mission
+Our mission is to spearhead the research and development of sustainable construction materials that
+are not only environment-friendly but also possess superior qualities such as durability, resilience, and
+energy efficiency.
+
+## Vision
+A world where construction materials are sustainable, smart, and contribute to a greener planet.
 
 {% include section.html %}
 
@@ -15,7 +21,10 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At the Low Carbon, Sustainable, and Smart Construction Material Lab, we believe that a sustainable future
+is built on the foundations of innovative research. Our research focuses on a multidisciplinary approach
+towards developing construction materials and technologies that are not only environmentally friendly
+but also cost-effective and durable.
 
 {%
   include button.html
@@ -38,7 +47,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+In our pursuit to revolutionize the construction industry with sustainable and smart materials, we
+spearhead a range of projects that stand testament to our commitment towards innovation and
+environmental conservation.
 
 {%
   include button.html
@@ -58,28 +69,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Projects"
   flip=true
   style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
   text=text
 %}
