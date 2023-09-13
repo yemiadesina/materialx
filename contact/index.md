@@ -7,21 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Inquiries can be directed to [adesina1@uwindsor.ca](mailto:adesina1@uwindsor.ca)
+
+For mentorship, collaboration, or any inquiries, book a short meeting here: [Book a Meeting](https://calendly.com/yemiadesina)
+
+### Direction
+We are part of the Civil and Environmental Engineering Department at the University of Windsor. The lab is located in the Centre for Engineering Innovation Building at 2285 Wyandotte St W, Windsor, ON N9B 1K3.
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="adesina1@uwindsor.ca"
+  link="adesina1@uwindsor.ca"
 %}
 {%
   include button.html
@@ -29,49 +27,3 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
