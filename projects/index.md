@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In our pursuit to revolutionize the construction industry with sustainable and smart materials, we spearhead a range of projects that stand testament to our commitment towards innovation and environmental conservation. Here’s a glimpse of some of the projects we are currently involved in and those that we have successfully completed:
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,12 +15,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+### Ongoing
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+### Completed
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+### Collaborative
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
