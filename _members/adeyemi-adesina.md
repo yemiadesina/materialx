@@ -1,12 +1,12 @@
 ---
-name: Jane Smith
+name: Adeyemi Adesina
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - A. Adesina
+  - A Adesina
 links:
-  home-page: https://janesmith.com
+  home-page: https://yemiadesina.ca
   orcid: 0000-0001-8713-9213
 ---
 
