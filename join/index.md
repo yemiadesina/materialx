@@ -1,7 +1,7 @@
 ---
 title: Join
 nav:
-  order: 7
+  order: 5
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Join
