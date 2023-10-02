@@ -1,7 +1,7 @@
 ---
 ---
 
-## Welcome to Lab
+## Welcome
 Welcome to our Research &amp; Development Lab where we innovate and foster developments in low-carbon, sustainable, and smart construction materials. Our multidisciplinary team is dedicated to reducing the environmental footprint of construction materials and revolutionizing the construction industry.
 
 ## Mission
