@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 6
+  order: 4
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Publications
