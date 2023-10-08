@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Inquiries can be directed to [adesina1@uwindsor.ca](mailto:adesina1@uwindsor.ca)
+Inquiries can be directed to [adesina.adeyemi@uwindsor.ca](mailto:adesina.adeyemi@uwindsor.ca)
 
 For mentorship, collaboration, or any inquiries, book a short meeting here: [Book a Meeting](https://calendly.com/yemiadesina)
 
@@ -18,8 +18,8 @@ We are part of the Civil and Environmental Engineering Department at the Univers
 {%
   include button.html
   type="email"
-  text="adesina1@uwindsor.ca"
-  link="adesina1@uwindsor.ca"
+  text="adesina.adeyemi@uwindsor.ca"
+  link="adesina.adeyemi@uwindsor.ca"
 %}
 {%
   include button.html
