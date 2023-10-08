@@ -7,13 +7,12 @@ aliases:
   - A Adesina
 links:
   home-page: https://yemiadesina.ca
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-7602-3896
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Adesina boasts a rich background in the research and development of low-carbon cementitious
+materials, spanning applications from structural to non-structural. His multifaceted experience extends
+across academia, government, and industry sectors. A prolific contributor to the field, Dr. Adesina has
+authored over 100 esteemed technical publications. He serves as an associate editor for both the
+Canadian Journal of Civil Engineering and Discover Civil Engineering Journal. Additionally, he actively
+participates in technical committees for ACI, RILEM, and ASTM.
