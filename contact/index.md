@@ -27,3 +27,10 @@ We are part of the Civil and Environmental Engineering Department at the Univers
   tooltip="Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/okEr4PAp3cBCJ57T6"
 %}
+
+{%
+  include figure.html
+  image="images/uwindsor.jpg"
+  caption="Department of Civil and Environmental Engineering, University of Windsor"
+  width="400px"
+%}
