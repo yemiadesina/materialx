@@ -24,6 +24,3 @@ At our forefront, we envision a collaborative space nurtured by the dynamic conf
   text="Join our team"
   link="/join"
 %}
-
-
-{% include grid.html style="square" content=content %}
