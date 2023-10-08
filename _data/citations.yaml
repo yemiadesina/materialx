@@ -1,82 +1,985 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1007/s41062-023-01064-2
+  title: Feasibility study on the utilization of granulated calcium carbonate as precursor
+    in alkali-activated fibre-reinforced composites
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Innovative Infrastructure Solutions
+  date: '2023-02-14'
+  link: https://doi.org/gsts8k
+  orcid: 0000-0002-7602-3896
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1007/s41024-021-00141-2
+  title: Analytical investigation of the influence of various void shape and spacing
+    on the load-bearing behavior of concrete hollow core slabs
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - M. Vinod Kumar
+  - Razan Alzein
+  - A. Chithambar Ganesh
+  - K. Rajesh Kumar
+  - N. Gurumoorthy
+  - Adeyemi Adesina
+  publisher: Journal of Building Pathology and Rehabilitation
+  date: '2021-11-20'
+  link: https://doi.org/gsts8m
+  orcid: 0000-0002-7602-3896
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/s11356-022-21444-y
+  title: 'Correction to: Role of casting and curing conditions on the strength and
+    drying shrinkage of greener concrete'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Muhammad Nasir
+  - Adeyemi Adesina
+  - Mohammed Ibrahim
+  - Muhammad Umar Khan
+  - "Omar S. Baghabra Al\u2011Amoudi"
+  - Syed Imran Ali
+  - Mohammed Maslehuddin
+  - Khalid Saqer Alotaibi
+  publisher: Environmental Science and Pollution Research
+  date: '2022-06-14'
+  link: https://doi.org/gsts8p
+  orcid: 0000-0002-7602-3896
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/s11356-022-20924-5
+  title: Role of casting and curing conditions on the strength and drying shrinkage
+    of greener concrete
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Muhammad Nasir
+  - Adeyemi Adesina
+  - Mohammed Ibrahim
+  - Muhammad Umar Khan
+  - Omar S. Baghabra Al-Amoudi
+  - Syed Imran Ali
+  - Mohammed Maslehuddin
+  - Khalid Saqer Alotaibi
+  publisher: Environmental Science and Pollution Research
+  date: '2022-05-25'
+  link: https://doi.org/gsts8q
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/(ASCE)MT.1943-5533.0004208
+  title: Performance Evaluation of Thermal-Efficient Lightweight Mortars Made with
+    Expanded Glass as Aggregates
+  authors:
+  - Oluwafemi Adewoyin
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Journal of Materials in Civil Engineering
+  date: '2022-05-01'
+  link: https://doi.org/gsts8r
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/21650373.2021.1894265
+  title: 'Sustainable utilization of ultrafine rice husk ash in alkali activated concrete:
+    Characterization and performance evaluation'
+  authors:
+  - Shaswat Kumar Das
+  - Jyotirmoy Mishra
+  - Syed Mohammed Mustakim
+  - Adeyemi Adesina
+  - Cyriaque Rodrigue Kaze
+  - Debadutta Das
+  publisher: Journal of Sustainable Cement-Based Materials
+  date: '2021-03-05'
+  link: https://doi.org/gm5pz5
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.conbuildmat.2022.126850
+  title: Physico-thermal and microstructural properties of thermal-efficient mortars
+    made with low cement content
+  authors:
+  - Oluwafemi Adewoyin
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Construction and Building Materials
+  date: '2022-03-01'
+  link: https://doi.org/gsts8t
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12633-020-00800-y
+  title: Overview of Workability and Mechanical Performance of Cement-Based Composites
+    Incorporating Nanomaterials
+  authors:
+  - Adeyemi Adesina
+  publisher: Silicon
+  date: '2020-10-28'
+  link: https://doi.org/gsts8w
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.clema.2021.100025
+  title: Characterization, reactivity and rheological behaviour of metakaolin and
+    Meta-halloysite based geopolymer binders
+  authors:
+  - Cyriaque Rodrigue Kaze
+  - Adeyemi Adesina
+  - Thamer Alomayri
+  - Hasan Assaedi
+  - Elie Kamseu
+  - Uphie Chinje Melo
+  - Cristina Leonelli
+  publisher: Cleaner Materials
+  date: '2021-12-01'
+  link: https://doi.org/gqgpn7
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s41024-020-00099-7
+  title: Mechanical performance of concrete incorporating wheat straw ash as partial
+    replacement of cement
+  authors:
+  - Naraindas Bheel
+  - Mohd Haziman Wan Ibrahim
+  - Adeyemi Adesina
+  - Charles Kennedy
+  - Irfan Ali Shar
+  publisher: Journal of Building Pathology and Rehabilitation
+  date: '2020-11-23'
+  link: https://doi.org/gsts8z
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jobe.2021.103229
+  title: Synergetic effect of rice husk ash and quartz sand on microstructural and
+    physical properties of laterite clay based geopolymer
+  authors:
+  - Cyriaque Rodrigue Kaze
+  - Adeyemi Adesina
+  - "Gis\xE8le Laure Lecomte-Nana"
+  - "Jordan Vald\xE8s Sontia Metekong"
+  - Liliane Van Essa Kamga Samen
+  - Elie Kamseu
+  - Uphie Chinje Melo
+  publisher: Journal of Building Engineering
+  date: '2021-11-01'
+  link: https://doi.org/gqgp6t
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11356-021-13957-9
+  title: "Synthesis and SWOT analysis of date palm frond ash\u2013Portland cement\
+    \ composites"
+  authors:
+  - Muhammad Nasir
+  - Walid Al-Kutti
+  - Tarek S. Kayed
+  - Adeyemi Adesina
+  - Tamara Chernykh
+  publisher: Environmental Science and Pollution Research
+  date: '2021-04-16'
+  link: https://doi.org/gsts83
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.conbuildmat.2021.123668
+  title: 'Physico-mechanical and microstructural properties of sodium sulfate activated
+    materials: A review'
+  authors:
+  - Adeyemi Adesina
+  - Cyriaque Rodrigue Kaze
+  publisher: Construction and Building Materials
+  date: '2021-08-01'
+  link: https://doi.org/gj6vjd
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42461-021-00380-4
+  title: Sustainable Utilization of GCP Sludge as a Reductant in the Reduction Roasting
+    of Low-Grade Manganese Ore to Recover Mn and Fe Values
+  authors:
+  - Malaya Kumar Jena
+  - Subhabrata Mishra
+  - Shaswat Kumar Das
+  - Syed Mohammed Mustakim
+  - Adeyemi Adesina
+  publisher: Mining, Metallurgy &amp; Exploration
+  date: '2021-03-05'
+  link: https://doi.org/gsts85
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12633-020-00532-z
+  title: Development of Eco-Friendly Basalt Fibre Reinforced Cementitious Composites
+    Using Taguchi Method
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Silicon
+  date: '2020-05-26'
+  link: https://doi.org/gsts87
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mtla.2021.101032
+  title: Development of alkali-activated composites from calcined iron-rich laterite
+    soil
+  authors:
+  - Cyriaque Rodrigue Kaze
+  - Sylvain Tome
+  - "Gis\xE8le Laure Lecomte-Nana"
+  - Adeyemi Adesina
+  - Hasan Essaedi
+  - Shaswat Kumar Das
+  - Thamer Alomayri
+  - Elie Kamseu
+  - Uphie Chinje Melo
+  publisher: Materialia
+  date: '2021-03-01'
+  link: https://doi.org/gsts88
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mtla.2021.101027
+  title: Optimization of self-compacting composite composition using Taguchi-Grey
+    relational analysis
+  authors:
+  - D. Suji
+  - Adeyemi Adesina
+  - R. Mirdula
+  publisher: Materialia
+  date: '2021-03-01'
+  link: https://doi.org/gsts89
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.resenv.2021.100016
+  title: Performance and sustainability overview of sodium carbonate activated slag
+    materials cured at ambient temperature
+  authors:
+  - Adeyemi Adesina
+  publisher: Resources, Environment and Sustainability
+  date: '2021-03-01'
+  link: https://doi.org/gsts9c
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11356-020-10882-1
+  title: Influence of coconut shell ash on workability, mechanical properties, and
+    embodied carbon of concrete
+  authors:
+  - Naraindas Bheel
+  - Santosh Kumar Mahro
+  - Adeyemi Adesina
+  publisher: Environmental Science and Pollution Research
+  date: '2020-09-24'
+  link: https://doi.org/grxshc
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/(ASCE)MT.1943-5533.0003563
+  title: Evaluation of the Durability Properties of Engineered Cementitious Composites
+    Incorporating Recycled Concrete as Aggregate
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Journal of Materials in Civil Engineering
+  date: '2021-02-01'
+  link: https://doi.org/gsts9f
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.conbuildmat.2020.120970
+  title: "Performance of cementitious composites reinforced with chopped basalt fibres\
+    \ \u2013 An overview"
+  authors:
+  - Adeyemi Adesina
+  publisher: Construction and Building Materials
+  date: '2021-01-01'
+  link: https://doi.org/gm87tq
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17515/resm2020.226st0921
+  title: Prediction of chloride ingress for palm kernel shell concrete
+  authors:
+  - Samson Olalekan Odeyemi
+  - Omolola Titilayo Odeyemi
+  - Adewale George Adeniyi
+  - Zainab Tolu Giwa
+  - Ademola Kamorudeen Salami
+  - Adeyemi Adesina
+  publisher: Research on Engineering Structures and Materials
+  date: '2021-01-01'
+  link: https://doi.org/gsts9h
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/(ASCE)MT.1943-5533.0003444
+  title: Durability Evaluation of Green-Engineered Cementitious Composite Incorporating
+    Glass as Aggregate
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Journal of Materials in Civil Engineering
+  date: '2020-12-01'
+  link: https://doi.org/gsts9m
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s41024-020-00089-9
+  title: 'Nanomaterials in cementitious composites: review of durability performance'
+  authors:
+  - Adeyemi Adesina
+  publisher: Journal of Building Pathology and Rehabilitation
+  date: '2020-06-18'
+  link: https://doi.org/gsts9n
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s41062-020-00359-y
+  title: Performance of basalt fibre-reinforced concrete for pavement and flooring
+    applications
+  authors:
+  - Adeyemi Adesina
+  - Amirreza Bastani
+  - Jamshid Zohreh Heydariha
+  - Sreekanta Das
+  - David Lawn
+  publisher: Innovative Infrastructure Solutions
+  date: '2020-08-28'
+  link: https://doi.org/gsts9q
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/(ASCE)CF.1943-5509.0001500
+  title: Field Applications of Basalt Fiber Materials for Rehabilitation of Deteriorated
+    Concrete Structures
+  authors:
+  - Jason Duic
+  - John Branston
+  - Adeyemi Adesina
+  - Sreekanta Das
+  - David Lawn
+  publisher: Journal of Performance of Constructed Facilities
+  date: '2020-10-01'
+  link: https://doi.org/gsts9r
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42768-020-00045-w
+  title: Performance and sustainability overview of alkali-activated self-compacting
+    concrete
+  authors:
+  - Adeyemi Adesina
+  publisher: Waste Disposal &amp; Sustainable Energy
+  date: '2020-08-13'
+  link: https://doi.org/gsts9t
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mtla.2020.100782
+  title: "Performance of fibre reinforced alkali-activated composites \u2013 A review"
+  authors:
+  - Adeyemi Adesina
+  publisher: Materialia
+  date: '2020-08-01'
+  link: https://doi.org/gsts9v
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s41062-020-00296-w
+  title: Performance of green fibre-reinforced composite made with sodium-carbonate-activated
+    slag as a binder
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Innovative Infrastructure Solutions
+  date: '2020-05-02'
+  link: https://doi.org/gsts9w
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.conbuildmat.2020.121443
+  title: Characterization and performance evaluation of laterite based geopolymer
+    binder cured at different temperatures
+  authors:
+  - Cyriaque Rodrigue Kaze
+  - Patrick Ninla Lemougna
+  - Thamer Alomayri
+  - Hasan Assaedi
+  - Adeyemi Adesina
+  - Shaswat Kumar Das
+  - "Gis\xE8le-Laure Lecomte-Nana"
+  - Elie Kamseu
+  - Uphie Chinje Melo
+  - Cristina Leonelli
+  publisher: Construction and Building Materials
+  date: '2021-02-01'
+  link: https://doi.org/gsts9z
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12633-020-00479-1
+  title: 'Correction to: Durability Properties of Alkali Activated Slag Composites:
+    Short Overview'
+  authors:
+  - Paul Awoyera
+  - Adeyemi Adesina
+  publisher: Silicon
+  date: '2020-04-08'
+  link: https://doi.org/gqnn6v
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.conbuildmat.2020.119076
+  title: Drying shrinkage and permeability properties of fibre reinforced alkali-activated
+    composites
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Construction and Building Materials
+  date: '2020-08-01'
+  link: https://doi.org/gsts92
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/9780784482896.024
+  title: Durability Properties of Mortar Overlays with Glass Aggregates
+  authors:
+  - Karla Gorospe
+  - Emad Booya
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Structures Congress 2020
+  date: '2020-04-02'
+  link: https://doi.org/gsts94
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1755-1315/445/1/012032
+  title: 'Effect of crumb rubber aggregate on the performance of cementitious composites:
+    A review'
+  authors:
+  - A Adesina
+  - O D Atoyebi
+  publisher: 'IOP Conference Series: Earth and Environmental Science'
+  date: '2020-02-01'
+  link: https://doi.org/gsts95
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/23311916.2020.1770914
+  title: Effect of curing methods on the strength of interlocking paving blocks
+  authors:
+  - O. D. Atoyebi
+  - P. P. Ikubanni
+  - A. Adesina
+  - O. V. Araoye
+  - I. E. E. Davies
+  publisher: Cogent Engineering
+  date: '2020-01-01'
+  link: https://doi.org/gsts97
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jobe.2020.101780
+  title: Fresh, strength and microstructure properties of geopolymer concrete incorporating
+    lime and silica fume as replacement of fly ash
+  authors:
+  - Shaswat Kumar Das
+  - Syed Mohammed Mustakim
+  - Adeyemi Adesina
+  - Jyotirmoy Mishra
+  - Thamer Salman Alomayri
+  - Hasan Suliman Assaedi
+  - Cyriaque Rodrigue Kaze
+  publisher: Journal of Building Engineering
+  date: '2020-11-01'
+  link: https://doi.org/gm5pzv
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12633-020-00557-4
+  title: Influence of Binary Blend of Corn Cob Ash and Glass Powder as Partial Replacement
+    of Cement in Concrete
+  authors:
+  - Naraindas Bheel
+  - Adeyemi Adesina
+  publisher: Silicon
+  date: '2020-06-25'
+  link: https://doi.org/gsts99
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.conbuildmat.2020.118199
+  title: Influence of glass powder on the durability properties of engineered cementitious
+    composites
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Construction and Building Materials
+  date: '2020-05-01'
+  link: https://doi.org/gsttbb
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/jmbm-2020-0011
+  title: 'Influence of various additives on the early age compressive strength of
+    sodium carbonate activated slag composites: An overview'
+  authors:
+  - Adeyemi Adesina
+  publisher: Journal of the Mechanical Behavior of Materials
+  date: '2020-01-01'
+  link: https://doi.org/gsttbd
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1757-899X/978/1/012023
+  title: Interfacial Characteristics of Engineered Pulp Fibre Reinforced Concretes
+    Containing Various Pozzolans
+  authors:
+  - Emad Booya
+  - Adeyemi Adesina
+  - Karla Gorospe
+  - Sreekanta Das
+  publisher: 'IOP Conference Series: Materials Science and Engineering'
+  date: '2020-11-01'
+  link: https://doi.org/gsttbf
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jclepro.2020.121113
+  title: Mechanical performance of engineered cementitious composite incorporating
+    glass as aggregates
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Journal of Cleaner Production
+  date: '2020-07-01'
+  link: https://doi.org/gsttbg
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1139/cjce-2019-0524
+  title: Mechanical performance of engineered cementitious composites incorporating
+    recycled glass powder
+  authors:
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Canadian Journal of Civil Engineering
+  date: '2020-12-01'
+  link: https://doi.org/gsttbj
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12633-020-00435-z
+  title: 'Performance of Coconut Shell Alkali-Activated Concrete: Experimental Investigation
+    and Statistical Modelling'
+  authors:
+  - Efe Ewaen Ikponmwosa
+  - Samuel Ehikhuenmen
+  - Joseph Emeshie
+  - Adeyemi Adesina
+  publisher: Silicon
+  date: '2020-03-07'
+  link: https://doi.org/gsttbk
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1757-899X/978/1/012020
+  title: Performance of High Strength Cementitious Composites with High Volume Supplementary
+    Cementitious Materials
+  authors:
+  - Adeyemi Adesina
+  - Emad Booya
+  - Gorospe Karla
+  - Sreekanta Das
+  publisher: 'IOP Conference Series: Materials Science and Engineering'
+  date: '2020-11-01'
+  link: https://doi.org/gsttbn
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.conbuildmat.2020.121457
+  title: Performance of eco-friendly mortars made with alkali-activated slag and glass
+    powder as a binder
+  authors:
+  - Jonathan Cercel
+  - Adeyemi Adesina
+  - Sreekanta Das
+  publisher: Construction and Building Materials
+  date: '2021-02-01'
+  link: https://doi.org/gp4bff
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cscm.2020.e00330
+  title: 'Plastic wastes to construction products: Status, limitations and future
+    perspective'
+  authors:
+  - P.O. Awoyera
+  - A. Adesina
+  publisher: Case Studies in Construction Materials
+  date: '2020-06-01'
+  link: https://doi.org/gg789t
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jobe.2020.101705
+  title: 'Recent advancements in the use of biochar for cementitious applications:
+    A review'
+  authors:
+  - Banjo A. Akinyemi
+  - Adeyemi Adesina
+  publisher: Journal of Building Engineering
+  date: '2020-11-01'
+  link: https://doi.org/gqvgxq
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/9780784482896.025
+  title: Rehabilitation of Steel I-Beam with Basalt Fiber Reinforced Polymer
+  authors:
+  - Amirreza Bastani
+  - Adeyemi Adesina
+  - Sreekanta Das
+  - David Lawn
+  publisher: Structures Congress 2020
+  date: '2020-04-02'
+  link: https://doi.org/gsttbr
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.engfailanal.2020.104715
+  title: 'Reinforced concrete deterioration caused by contaminated construction water:
+    An overview'
+  authors:
+  - Paul Awoyera
+  - Adeyemi Adesina
+  - Oladimeji B. Olalusi
+  - Amelec Viloria
+  publisher: Engineering Failure Analysis
+  date: '2020-10-01'
+  link: https://doi.org/gsttbs
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/9780784482896.041
+  title: Strengthening of Concrete Beams with Basalt Fibre Reinforced Polymer
+  authors:
+  - Eric Hughes
+  - Adeyemi Adesina
+  - Bruno Paini
+  - Sreekanta Das
+  - Niel Van Engelen
+  publisher: Structures Congress 2020
+  date: '2020-04-02'
+  link: https://doi.org/gsttbv
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1757-899X/978/1/012019
+  title: The Influence of Various Factors on the Drying Shrinkage of Basalt Fibre
+    Reinforced Cement-Based Composites Designed by the Taguchi Method
+  authors:
+  - Adeyemi Adesina
+  - Emad Booya
+  - Gorospe Karla
+  - Sreekanta Das
+  publisher: 'IOP Conference Series: Materials Science and Engineering'
+  date: '2020-11-01'
+  link: https://doi.org/gsttbw
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1757-899X/978/1/012024
+  title: The Performance of Slag Containing Engineered Cementitious Composites
+  authors:
+  - Emad Booya
+  - Adeyemi Adesina
+  - Karla Gorospe
+  - Sreekanta Das
+  publisher: 'IOP Conference Series: Materials Science and Engineering'
+  date: '2020-11-01'
+  link: https://doi.org/gsttbx
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12633-019-00343-x
+  title: Influence of Curing Media and Mixing Solution on the Compressive Strength
+    of Laterized Concrete
+  authors:
+  - Oluwatobi Aluko
+  - Temitope Awolusi
+  - Adeyemi Adesina
+  publisher: Silicon
+  date: '2019-11-30'
+  link: https://doi.org/gsttbz
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42107-019-00203-4
+  title: Fire resistance and thermal insulation properties of foamed concrete incorporating
+    pulverized ceramics and mineral admixtures
+  authors:
+  - Paul Awoyera
+  - Emmanuel Onoja
+  - Adeyemi Adesina
+  publisher: Asian Journal of Civil Engineering
+  date: '2019-10-14'
+  link: https://doi.org/gsttb2
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.matpr.2019.08.199
+  title: 'Alkali activated binders: Challenges and opportunities'
+  authors:
+  - P.O. Awoyera
+  - A. Adesina
+  - A. Sivakrishna
+  - R. Gobinath
+  - K. Rajesh Kumar
+  - A. Srinivas
+  publisher: 'Materials Today: Proceedings'
+  date: '2020-01-01'
+  link: https://doi.org/gsttb3
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.matpr.2019.08.202
+  title: 'Green concrete: A review of recent developments'
+  authors:
+  - A. Sivakrishna
+  - A. Adesina
+  - P.O. Awoyera
+  - K. Rajesh Kumar
+  publisher: 'Materials Today: Proceedings'
+  date: '2020-01-01'
+  link: https://doi.org/gsttb4
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42452-019-1012-4
+  title: Overview of trends in the application of waste materials in self-compacting
+    concrete production
+  authors:
+  - Adeyemi Adesina
+  - Paul Awoyera
+  publisher: SN Applied Sciences
+  date: '2019-08-02'
+  link: https://doi.org/gsttb5
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4028/www.scientific.net/msf.967.221
+  title: 'Durability Enhancement of Concrete Using Nanomaterials: An Overview'
+  authors:
+  - Adeyemi Adesina
+  publisher: Materials Science Forum
+  date: '2019-08-01'
+  link: https://doi.org/gsttb6
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4028/www.scientific.net/msf.967.214
+  title: 'Properties of Alkali Activated Slag Concrete Incorporating Waste Materials
+    as Aggregate: A Review'
+  authors:
+  - Adeyemi Adesina
+  publisher: Materials Science Forum
+  date: '2019-08-01'
+  link: https://doi.org/gsttb7
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/rees/2019006
+  title: 'Use of phase change materials in concrete: current challenges'
+  authors:
+  - Adeyemi Adesina
+  publisher: Renewable Energy and Environmental Sustainability
+  date: '2019-01-01'
+  link: https://doi.org/gqm5dc
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-18488-9_65
+  title: 'Utilization of Biomass Energy in Cement Production: A Pathway Towards Sustainable
+    Infrastructure'
+  authors:
+  - Adeyemi Adesina
+  - Paul Awoyera
+  publisher: Renewable Energy and Sustainable Buildings
+  date: '2019-08-31'
+  link: https://doi.org/gsttb8
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12633-019-00199-1
+  title: 'Durability Properties of Alkali Activated Slag Composites: Short Overview'
+  authors:
+  - Paul Awoyera
+  - Adeyemi Adesina
+  publisher: Silicon
+  date: '2019-06-20'
+  link: https://doi.org/gsttb9
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cscm.2019.e00268
+  title: A critical review on application of alkali activated slag as a sustainable
+    composite binder
+  authors:
+  - Paul Awoyera
+  - Adeyemi Adesina
+  publisher: Case Studies in Construction Materials
+  date: '2019-12-01'
+  link: https://doi.org/gsttcb
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85080866635
+  title: Permeability characteristics of cementitious materials reinforced with kraft
+    pulp fibres
+  publisher: Proceedings, Annual Conference - Canadian Society for Civil Engineering
+  date: '2022-05-30'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85080866635&partnerID=MN8TOARS
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.matpr.2019.11.228
+  title: 'Phase change materials in concrete: An overview of properties'
+  authors:
+  - A. Adesina
+  - P.O. Awoyera
+  - A. Sivakrishna
+  - K. Rajesh Kumar
+  - R. Gobinath
+  publisher: 'Materials Today: Proceedings'
+  date: '2020-01-01'
+  link: https://doi.org/gsttcc
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/14488353.2019.1626692
+  title: Role of recycling fine materials as filler for improving performance of concrete
+    - a review
+  authors:
+  - Paul O. Awoyera
+  - Adeyemi Adesina
+  - Ravindran Gobinath
+  publisher: Australian Journal of Civil Engineering
+  date: '2019-06-06'
+  link: https://doi.org/gh5dk9
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85080944810
+  title: Shrinkage and expansion of glass aggregate cement mortars
+  publisher: Proceedings, Annual Conference - Canadian Society for Civil Engineering
+  date: '2022-05-30'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85080944810&partnerID=MN8TOARS
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/15623599.2018.1484991
+  title: A statistical approach to assess the schedule delays and risks in Indian
+    construction industry
+  authors:
+  - G. Muneeswaran
+  - P. Manoharan
+  - P. O. Awoyera
+  - A. Adesina
+  publisher: International Journal of Construction Management
+  date: '2018-08-31'
+  link: https://doi.org/gsttcd
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.1405562
+  title: 'Synercrete''18: Interdisciplinary Approaches For Cement-Based Materials
+    And Structural Concrete: Synergizing Expertise And Bridging Scales Of Space And
+    Time.'
+  authors:
+  - Miguel Azenha
+  - Dirk Schlicke
+  - Farid Benboudjema
+  - "Agnieszka J\u0119drzejewska"
+  publisher: Zenodo
+  date: '2018-10-22'
+  link: https://doi.org/gsttcf
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: source-work-id:BASE:7a32f8a63ef7fd63090f76eb8d3bfb18ac752f80708327ee24394b7ec42136ec
+  title: Concrete Sustainability Issues
+  date: '2022-05-28'
+  link: https://spectrum.library.concordia.ca/984818/
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/rg.2.2.16017.89446
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: source-work-id:BASE:67baec9de3bad861358c2398f270ae0199a5bc7bc8b8f46933c9b1efd1b40116
+  title: 'Effect of Green Activators on the Properties of Alkali Activated Materials:
+    A Review'
+  date: '2022-05-27'
+  link: https://spectrum.library.concordia.ca/984666/
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/rg.2.2.30697.95845
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: source-work-id:BASE:2c869dccd426483ea4308d1ab14a4b93f07b1600a6209e516f132cdf7ac110b7
+  title: Overview of the Mechanical Properties of Concrete Incorporating Waste From
+    the Concrete Industry as Aggregate
+  date: '2022-05-27'
+  link: https://depot.ceon.pl/handle/123456789/15838
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: source-work-id:BASE:b00f2d7839f5f60f68d293d26bf0a83e2870c698dd2c0aa1afbddae6793e638f
+  title: Review of the Impact of Incorporation of Phase Change Materials on the Compressive
+    strength of Concrete
+  date: '2022-05-28'
+  link: https://spectrum.library.concordia.ca/984819/
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: source-work-id:BASE:8df86d17ba3e9ca8b067549d575a2bf202f683e1c3d94da77fc938564c7b5d68
+  title: 'Use of Rice Husk in Concrete: Review of Mechanical Properties'
+  date: '2022-05-27'
+  link: https://depot.ceon.pl/handle/123456789/15839
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: source-work-id:BASE:a8290ad863291220e8ff9bc26bcb08f6afd10bc5b03f03bbf19010e0bb94d6a8
+  title: 'Utilization of biomass energy in cement production: a pathway towards sustainable
+    infrastructure'
+  date: '2022-05-27'
+  link: http://eprints.covenantuniversity.edu.ng/11526/
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-803581-8.10366-2
+  title: Structural Integrity Assessment of Bamboo for Construction Purposes
+  authors:
+  - Paul O. Awoyera
+  - Adeyemi Adesina
+  publisher: Encyclopedia of Renewable and Sustainable Materials
+  date: '2017-01-01'
+  link: https://doi.org/gsttcg
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
+- id: source-work-id:BASE:cd506ade95f401d955d90919b94a12733fda37b86b1564cce4e009fedb3a8a3e
+  title: Influence of Moisture on Alkali Silica Reaction
+  date: '2022-05-27'
+  link: https://spectrum.library.concordia.ca/982102/
+  orcid: 0000-0002-7602-3896
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +995,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +1011,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
