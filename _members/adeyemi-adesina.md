@@ -1,6 +1,6 @@
 ---
 name: Adeyemi Adesina
-image: images/photo.jpg
+image: images/yemiadesina.jpeg
 role: director
 aliases:
   - A. Adesina
