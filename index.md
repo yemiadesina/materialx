@@ -54,7 +54,7 @@ In our pursuit to revolutionize the construction industry with sustainable and s
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Projects"
   flip=true
