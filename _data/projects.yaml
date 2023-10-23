@@ -1,53 +1,57 @@
 - title: Carbon Capture and Utilization
-  subtitle: a subtitle
   group: ongoing
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/carbon_capture.png
+  description: Carbon is permanently stored in cementitious materials to improve performance and improve sustainability.
   tags:
-    - resource
+    - cementitious materials
+    - concrete 
+    - carbon capture 
+    - carbon utilization 
+    - sustainability
 
 - title: Utilization of mining wastes in cementitious materials
-  subtitle: a subtitle
   group: ongoing
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/utilization_of_mining.png
+  description: Optimization and engineering of mine tailings and waste rocks as various components of cementitious materials.
   tags:
-    - resource
+    - mine tailings
+    - cement 
+    - aggregates
+    - green materials 
+    - construction materials
+    - circular economy
 
 - title: Life cycle assessment of low carbon materials
-  subtitle: a subtitle
   group: ongoing
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/life_cycle_assessment.png
+  description: Comprehensive evaluation of the sustainability and economic benefits of various construction materials
   tags:
-    - resource
-    - publication
+    - life cycle assessment
+    - life cycle cost 
+    - sustainability 
+    - circular economy
+    - low-carbon materials
 
-- title: Utilization of recycled aggregates in low carbon concrete
-  subtitle: a subtitle
+- title: Use of recycled/waste materials
   group: ongoing
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/recycled_materials.png
+  description: Use of various industrial and agricultural waste/recycled products as replacement of binder and/or aggregate components in cementitious materials such as concrete
   tags:
-    - software
+    - recycled materials
+    - low-carbon concrete
+    - circular economy 
+    - sustainability 
+    - SDGs
 
 - title: Development of hempcrete
-  subtitle: a subtitle
   group: ongoing
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/hempcrete.jpg
+  description: Use of hemp by-products in the production of various low-carbon alternative construction materials with good thermal insulation properties.
   tags:
-    - software
+    - hempcrete
+    - thermal insulation 
+    - low-carbon materials
+    - circular economy
     
 - title: Performance and sustainability improvement of fibre-reinforced cementitious materials
   subtitle: a subtitle
