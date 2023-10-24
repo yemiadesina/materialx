@@ -21,7 +21,7 @@ At the Low Carbon, Sustainable, and Smart Construction Material Lab, we believe 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Our research areas"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
