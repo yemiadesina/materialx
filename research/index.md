@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-At the Low Carbon, Sustainable &amp; Smart Construction Material Lab, we believe that a sustainable future is built on the foundations of innovative research. Our research focuses on a multidisciplinary approach towards developing construction materials and technologies that are not only environmentally friendly but also cost-effective and durable. Here’s a closer look at the various spheres we specialize in:
+At the MaterialX Innovation Lab, we believe that a sustainable future is built on the foundations of innovative research. Our research focuses on a multidisciplinary approach towards developing construction materials and technologies that are not only environmentally friendly but also cost-effective and durable. Here’s a closer look at the various spheres we specialize in:
 
 ### *Low Carbon Cementitious Materials*
 
