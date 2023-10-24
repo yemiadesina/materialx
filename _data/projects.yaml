@@ -54,44 +54,44 @@
     - circular economy
     
 - title: Performance and sustainability improvement of fibre-reinforced cementitious materials
-  subtitle: a subtitle
   group: completed
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/fibre.jpg
+  description: Significant reduction in the embodied carbon and performance improvement of FRCCs through material design and use of alternative binders.
   tags:
-    - software
+    - cementitious materials
+    - concrete 
+    - carbon capture
+    - carbon utilization
+    - sustainability
 
 - title: Development of thermal efficient mortars
-  subtitle: a subtitle
   group: completed
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/thermal_efficient.jpg
+  description: Use of expanded glass to develop lightweight cementitious materials with good thermal insulation properties.
   tags:
-    - software
+    - fibre-reinforced cementitious materials
+    - supplementary cementitious materials
+    - sustainability
 
 - title: Utilization of uncalcined clay in cementitious materials
-  subtitle: a subtitle
   group: completed
-  image: images/photo.jpg
+  image: images/uncalcined.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Development of structural and non-structural low-carbon cementitious materials using locally sourced uncalcined clay.
   tags:
-    - software
+    - clay
+    - laterite
+    - locally sourced material
+    - low-carbon materials
     
 - title: Investigation of the role of moisture in alkali-silica reaction
-  subtitle: a subtitle
   group: completed
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/alkali_silica.jpg
+  description: Evaluating the role of moisture and temperature in the initiation and propagation of alkali-silica reactions in cementitious materials.
   tags:
-    - software
+    - alkali-silica reaction
+    - durability
+    - concrete performance
     
 - title: Utilization of locally sourced clay in various cementitious materials
   subtitle: a subtitle
