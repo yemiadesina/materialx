@@ -45,7 +45,7 @@
 
 - title: Development of hempcrete
   group: ongoing
-  image: images/hempcrete.jpg
+  image: images/hempcrete.png
   description: Use of hemp by-products in the production of various low-carbon alternative construction materials with good thermal insulation properties.
   tags:
     - hempcrete
@@ -55,7 +55,7 @@
     
 - title: Performance and sustainability improvement of fibre-reinforced cementitious materials
   group: completed
-  image: images/fibre.jpg
+  image: images/fibre.png
   description: Significant reduction in the embodied carbon and performance improvement of FRCCs through material design and use of alternative binders.
   tags:
     - cementitious materials
@@ -66,7 +66,7 @@
 
 - title: Development of thermal efficient mortars
   group: completed
-  image: images/thermal_efficient.jpg
+  image: images/thermal_efficient.png
   description: Use of expanded glass to develop lightweight cementitious materials with good thermal insulation properties.
   tags:
     - fibre-reinforced cementitious materials
@@ -75,7 +75,7 @@
 
 - title: Utilization of uncalcined clay in cementitious materials
   group: completed
-  image: images/uncalcined.jpg
+  image: images/uncalcined.png
   link: https://github.com/
   description: Development of structural and non-structural low-carbon cementitious materials using locally sourced uncalcined clay.
   tags:
@@ -86,7 +86,7 @@
     
 - title: Investigation of the role of moisture in alkali-silica reaction
   group: completed
-  image: images/alkali_silica.jpg
+  image: images/alkali_silica.png
   description: Evaluating the role of moisture and temperature in the initiation and propagation of alkali-silica reactions in cementitious materials.
   tags:
     - alkali-silica reaction
