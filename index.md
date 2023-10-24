@@ -16,7 +16,7 @@ A world where construction materials are sustainable, smart, and contribute to a
 
 {% capture text %}
 
-At the Low Carbon, Sustainable, and Smart Construction Material Lab, we believe that a sustainable future is built on the foundations of innovative research. Our research focuses on a multidisciplinary approach towards developing construction materials and technologies that are not only environmentally friendly but also cost-effective and durable.
+At the MaterialX innovation hub, we believe that a sustainable future is built on the foundations of innovative research. Our research focuses on a multidisciplinary approach towards developing construction materials and technologies that are not only environmentally friendly but also cost-effective and durable.
 
 {%
   include button.html
