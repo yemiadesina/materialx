@@ -1,10 +1,7 @@
 ---
 name: You?
 image: images/photo.jpg
-role: phd
-aliases:
-  - A. Adesina
-  - A Adesina
+role: masters
 ---
 
-PhD Student
+MSc. Student
