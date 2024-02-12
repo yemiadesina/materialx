@@ -1,5 +1,5 @@
 ---
-name: Akinsola Akinmulegun Oluwole
+name: Akinsola A. Oluwole
 image: images/akinsola.jpg
 role: researcher
 aliases:
