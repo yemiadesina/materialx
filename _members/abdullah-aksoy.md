@@ -1,7 +1,7 @@
 ---
 name: Abdullah AKSOY
 image: images/aksoy.jpg
-role: researcher
+role: masters
 aliases:
   - A. AKSOY
   - Abdullah A.
