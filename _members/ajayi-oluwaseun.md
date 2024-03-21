@@ -1,7 +1,7 @@
 ---
 name: Ajayi Oluwaseun
 image: images/oluwaseun_ajayi.jpg
-role: researcher
+role: masters
 aliases:
   - A. Oluwaseun
   - Ajayi O.
