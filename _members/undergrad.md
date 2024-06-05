@@ -1,7 +1,7 @@
 ---
 name: You?
 image: images/photo.jpg
-role: undergrad
+role: mascot
 ---
 
 Undergraduate Student
