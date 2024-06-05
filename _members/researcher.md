@@ -1,7 +1,7 @@
 ---
 name: You?
 image: images/photo.jpg
-role: researcher
+role: mascot
 ---
 
 Research Assistant
