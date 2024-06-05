@@ -1,7 +1,7 @@
 ---
 name: You?
 image: images/photo.jpg
-role: phd
+role: mascot
 aliases:
   - A. Adesina
   - A Adesina
