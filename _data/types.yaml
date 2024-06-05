@@ -31,7 +31,7 @@ researcher:
   description: Research Assistant
 
 mascot:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-glasses
   description: Mascot
 
 # general
