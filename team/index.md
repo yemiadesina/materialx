@@ -11,7 +11,15 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: director" %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!director$)" %}
+{% include list.html data="members" component="portrait" filters="role: researcher" %}
+
+{% include list.html data="members" component="portrait" filters="role: masters" %}
+
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
+{% include list.html data="members" component="portrait" filters="role: elevateIntern" %}
+
+{% include list.html data="members" component="portrait" filters="role: ^(?!director$|researcher$|masters$|undergrad$|elevateIntern$).*" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
