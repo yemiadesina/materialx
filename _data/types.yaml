@@ -18,6 +18,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+elevateIntern:
+  icon: fa-solid fa-user-graduate
+  description: ELEVATE Intern
+
 masters:
   icon: fa-solid fa-user-graduate
   description: MSc Student
