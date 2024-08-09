@@ -29,7 +29,7 @@ technology with ecology, creating a legacy that future generations can proudly b
 
 ## Open Positions
 
-We are excited to announce upcoming opportunities for aspiring Masters and Ph.D. students to join our innovative team, with projected start dates in May and September 2024. As we forge ahead in our
+We are excited to announce upcoming opportunities for aspiring Masters and Ph.D. students to join our innovative team, with projected start dates in January and April 2025. As we forge ahead in our
 mission to redefine the realm of construction materials, we are on the lookout for dedicated individuals who are ready to be at the forefront of this revolution.
 
 ### *Qualifications and Skills*
@@ -43,7 +43,7 @@ Interested candidates are requested to initiate the application process by sendi
 2. Samples of your publications (if any).
 3. A concise one-page statement explaining your motivation to apply for this position.
    
-Please use the subject line: ‘Prospective Student in Concrete Materials 2024’ for your email. We
+Please use the subject line: ‘Prospective Student in Concrete Materials 2025’ for your email. We
 appreciate your enthusiasm, and we would like to mention that there is no necessity to send multiple
 emails. Dr. Adesina will personally get in touch with potential candidates who align with our lab's vision.
 
