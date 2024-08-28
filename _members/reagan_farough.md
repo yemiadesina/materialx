@@ -1,7 +1,7 @@
 ---
 name: Reagan Farough
 image: images/reagan_farough.jpg
-role: elevateIntern
+role: researcher
 aliases:
   - R. Farough
   - R Farough
