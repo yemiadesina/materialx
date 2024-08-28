@@ -1,7 +1,7 @@
 ---
 name: Akinsola A. Oluwole
 image: images/akinsola.jpg
-role: researcher
+role: masters
 aliases:
   - A. A. Oluwole
   - A A Oluwole
