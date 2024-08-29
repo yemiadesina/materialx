@@ -4,4 +4,4 @@ image: images/photo.jpg
 role: undergrad
 ---
 
-Undergraduate Student
+Undergraduate Student 
