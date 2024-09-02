@@ -1,12 +1,9 @@
 ---
-name: Mariah Saad
-image: images/mariah.png
+name: Mohd Shah Alam Ghazi
+image: images/mohd.jpg
 role: researcher
 aliases:
-  - M. Saad
-  - M Saad
+  - M. Shah Alam Ghazi
+  - M Shah Alam Ghazi
 ---
-Mariah is a 2nd-year undergraduate civil engineering student with a commitment to advancing sustainable, cost-effective, and innovative infrastructure solutions. Her passion lies in the exploration of sustainable construction materials derived from waste products, aiming to promote a circular economy, extended life cycle of products, and decreased environmental impact of the construction industry. She is excited to be part of the lab and is eager to grow her skills and knowledge.
-
-Fun Fact:
-Mariah is fluent in French
+I’m Mohd Shah Alam Ghazi, currently pursuing a MASc in Civil Engineering at the University of Windsor. My research centers on sustainable construction materials, with a focus on low-carbon cementitious materials, recycled aggregates, and the application of nanotechnology to improve material properties. I have gained substantial expertise in experimental research, specifically in evaluating the performance and durability of concrete and reinforced concrete structures under diverse environmental conditions. This experience has enriched my understanding of material durability and the implementation of innovative construction solutions. I am dedicated to advancing the construction industry through sustainable practices. Beyond my academic pursuits, I enjoy hiking, discovering new places, and experimenting with new recipes.
