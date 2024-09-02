@@ -1,7 +1,7 @@
 ---
 name: Mohd Shah Alam Ghazi
 image: images/mohd.jpg
-role: researcher
+role: masters
 aliases:
   - M. Shah Alam Ghazi
   - M Shah Alam Ghazi
