@@ -29,7 +29,7 @@ technology with ecology, creating a legacy that future generations can proudly b
 
 ## Open Positions
 
-We are excited to announce upcoming opportunities for aspiring Masters and Ph.D. students to join our innovative team, with projected start dates in April 2025 (Summer term) and September 2025. As we forge ahead in our
+We are excited to announce upcoming opportunities for aspiring Masters and Ph.D. students to join our innovative team, with projected start dates in April 2025 (Summer term) and September 2025 (Fall term). As we forge ahead in our
 mission to redefine the realm of construction materials, we are on the lookout for dedicated individuals who are ready to be at the forefront of this revolution.
 
 ### *Qualifications and Skills*
