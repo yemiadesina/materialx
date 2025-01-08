@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/978-3-031-80597-4_35
+  title: Compression Strength of Self-compacting Rubberized Concrete as a Function
+    of the Content of Recycled Rubber
+  authors:
+  - Marijana Hadzima-Nyarko
+  - Ibrahim Saad Agwa
+  - Abdullah M. Zeyad
+  - Bassam A. Tayeh
+  - Adeyemi Adesina
+  - Afonso Rangel Garcez de Azevedo
+  - Mohamed Amin
+  publisher: Lecture Notes in Networks and Systems
+  date: '2024-12-31'
+  link: https://doi.org/g8x3nd
+  orcid: 0000-0002-7602-3896
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s41062-023-01064-2
   title: Feasibility study on the utilization of granulated calcium carbonate as precursor
     in alkali-activated fibre-reinforced composites
